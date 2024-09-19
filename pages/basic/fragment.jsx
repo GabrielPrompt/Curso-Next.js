@@ -1,4 +1,4 @@
-export default function fregment() {
+export default function fragment() {
     return (
         <>
             <h1></h1>
