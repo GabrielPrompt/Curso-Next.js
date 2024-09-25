@@ -1,8 +1,9 @@
-import Counter from './estado/Counter'
+import Formulario from '../pages/estado/Formulario'
+
 export default function Home() {
   return (
     <div>
-      <Counter />
+      <Formulario />
     </div>
   );
 }
