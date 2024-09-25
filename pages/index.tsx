@@ -1,9 +1,8 @@
-import Integracao2 from '../pages/css/integracao2'
-
+import Counter from './estado/Counter'
 export default function Home() {
   return (
     <div>
-      <Integracao2 />
+      <Counter />
     </div>
   );
 }

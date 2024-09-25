@@ -1,0 +1,15 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Bottons {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
