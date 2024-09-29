@@ -1,5 +1,5 @@
-export function mega(qtde = 6, numeros=[]) {
-    if(qtde < 6 & qtde > 60) {
+function mega(qtde = 6, numeros = []) {
+    if(qtde < 6 && qtde > 60) {
         throw "Quantidade invalida!"
     }
 
@@ -17,3 +17,5 @@ export function mega(qtde = 6, numeros=[]) {
 }
 
 console.log(mega(20))
+
+export default mega     
